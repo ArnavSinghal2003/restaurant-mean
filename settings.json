@@ -1,0 +1,8 @@
+{
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "files.autoSave": "off",    // keep off if you plan to auto-push on save — safer to save manually
+  "git.enableSmartCommit": true,
+  "git.autofetch": true,
+  "git.confirmSync": false
+}
